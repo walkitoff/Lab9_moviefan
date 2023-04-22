@@ -70,7 +70,7 @@
 			<tr>
 				<td></td>
 					<td style = "float: right; margin-right: 10px;">
-						<input style = "border: 2px outset; " type="submit" value="Submit">
+						<input style = "border: 2px outset; cursor: pointer;" type="submit" value="Submit">
 						
 					</td>
 			</tr>
